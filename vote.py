@@ -93,10 +93,10 @@ def vote(form, value, times, wait_min = None, wait_max = None):
         i += 1
 
 # Initialize these to the specific form and how often you want to vote
-poll_id = 0
-answer_id = 0
-number_of_votes = 10
-wait_min = None
+poll_id = 10427796
+answer_id = 48122512
+number_of_votes = 10000
+wait_min = 60000
 wait_max = None
 
 get_all_proxies()
