@@ -2,9 +2,6 @@
 import requests, re, json, time, random
 requests.packages.urllib3.disable_warnings()
 
-# Created by Alex Beals
-# Last updated: February 20, 2016
-
 base_url = "https://polldaddy.com/poll/"
 redirect = ""
 
